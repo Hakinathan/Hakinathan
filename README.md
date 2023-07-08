@@ -29,6 +29,7 @@ This is the phrase I'd use if I had to introduce myself in a single line.
 
 ## Projects in progress...⚡
 * [UsePopcorn](https://github.com/Hakinathan/UsePopcorn) (React learning)
+* [CodaMate](https://github.com/Hakinathan/CodaMate) 
 
 
 ## Upcoming projects..💭
