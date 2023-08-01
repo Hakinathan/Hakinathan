@@ -26,9 +26,9 @@ This is the phrase I'd use if I had to introduce myself in a single line.
 * [Forkify](https://github.com/Hakinathan/forkify) (JS learning)
 * [Mapty](https://github.com/Hakinathan/mapty) (JS learning)
 * [Pizza-menu](https://github.com/Hakinathan/pizza-menu) (React learning)
+* [UsePopcorn](https://github.com/Hakinathan/UsePopcorn) (React learning)
 
 ## Projects in progress...⚡
-* [UsePopcorn](https://github.com/Hakinathan/UsePopcorn) (React learning)
 * [CodaMate](https://github.com/Hakinathan/CodaMate) 
 
 
