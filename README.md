@@ -30,7 +30,7 @@ This is the phrase I'd use if I had to introduce myself in a single line.
 
 ## Projects in progress...⚡
 * [CodaMate](https://github.com/Hakinathan/CodaMate) 
-
+* [WorldWise](https://github.com/Hakinathan/WorldWise) 
 
 ## Upcoming projects..💭
 * My portfolio
