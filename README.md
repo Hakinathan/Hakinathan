@@ -4,6 +4,10 @@
 
 I'm a young graduated developer from Belgium.
 
+I post my projects on Github. This allows me to practice the new technologies I'm learning while creating real projects.
+
+I'm also a freelancer.
+
 # 💻 My Tech Stack
 
 ## Web Development
@@ -37,6 +41,8 @@ I'm a young graduated developer from Belgium.
 [![](https://github-readme-stats.vercel.app/api/pin/?username=hakinathan&repo=Portfolio&show_owner=true)](https://github.com/Hakinathan/Portfolio)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=hakinathan&repo=CodaMate&show_owner=true)](https://github.com/Hakinathan/CodaMate)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=hakinathan&repo=PatternLab&show_owner=true)](https://github.com/Hakinathan/PatternLab)
 
 # 📊 GitHub Stats
 
