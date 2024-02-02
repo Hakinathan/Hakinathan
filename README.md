@@ -6,8 +6,6 @@ I'm a young graduated developer from Belgium.
 
 I post my projects on Github. This allows me to practice the new technologies I'm learning while creating real projects.
 
-I'm also a freelancer.
-
 # 💻 My Tech Stack
 
 ## Web Development
@@ -23,15 +21,11 @@ I'm also a freelancer.
 
 ## Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Database
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Other
 
